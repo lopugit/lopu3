@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/lopugit/lopu3/issues"
   },
-  "homepage": "https://github.com/lopugit/lopu3#readme"
+  "homepage": "https://github.com/lopugit/lopu3#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "svg.js": "^2.7.1",
+    "uuid": "^3.3.2"
+  }
 }
