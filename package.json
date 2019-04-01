@@ -1,11 +1,11 @@
 {
   "name": "lopu3",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A 3d html render library powered by javascript",
   "main": "node/index.js",
   "scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"ready": "git add . ; git commit -m 'no comment' ; npm version patch"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ready": "git add . ; git commit -m 'no comment' ; npm version patch"
   },
   "repository": {
     "type": "git",
