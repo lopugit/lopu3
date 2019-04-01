@@ -1,0 +1,19 @@
+{
+  "name": "lopu3",
+  "version": "0.0.1",
+  "description": "A 3d html render library powered by javascript",
+  "main": "node/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopugit/lopu3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopugit/lopu3/issues"
+  },
+  "homepage": "https://github.com/lopugit/lopu3#readme"
+}
