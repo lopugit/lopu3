@@ -1,6 +1,6 @@
 {
   "name": "lopu3",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "A 3d html render library powered by javascript",
   "main": "node/index.js",
   "scripts": {
