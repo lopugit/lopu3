@@ -4,7 +4,8 @@
   "description": "A 3d html render library powered by javascript",
   "main": "node/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"ready": "git add . ; git commit -m 'no comment' ; npm version patch"
   },
   "repository": {
     "type": "git",
@@ -17,6 +18,7 @@
   },
   "homepage": "https://github.com/lopugit/lopu3#readme",
   "dependencies": {
+    "d3": "^5.9.2",
     "jquery": "^3.3.1",
     "svg.js": "^2.7.1",
     "uuid": "^3.3.2"
